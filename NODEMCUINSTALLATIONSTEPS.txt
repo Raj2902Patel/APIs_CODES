@@ -1,0 +1,7 @@
+1. download esp module drivers from:
+https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers.
+2. Add this link to file->preference - Url.
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+3. Add ESP board from tools -> board -> board Manager - type ESP8266
+install and rerun IDE
+4. now connect ESP with USB cable and run basic blink of built in LED.
